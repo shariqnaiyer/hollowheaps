@@ -1,4 +1,4 @@
-# CMPUT 403: Project - Hollow Heaps
+# Hollow Heaps 💡
 
 ## Description
 
